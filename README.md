@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua Lopez!
+<h1>Hi, I'm Joshua!
 
 <h2>👨‍💻 About Me: </h2>
 Hello, my name is Joshua Lopez, and I'm a sophomore majoring in Computer Science at California State University, Fullerton. At the moment, I'm interested in learning more about virtual reality, game development, cybersecurity, data analysis, and more.
