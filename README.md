@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Joshua Lopez!
 
-<!--
-**Joshua11l/Joshua11l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 About Me </h2>
+Hello, my name is Joshua Lopez, and I'm a sophomore majoring in Computer Ccience at California State University, Fullerton. At the moment, I'm interested in learning more about virtual reality, game development, cybersecurity, data analysis, and more.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Software Development Projects:  </h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="https://www.linkedin.com/in/joshua-lopez-811758252/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/joshua-lopez-811758252/
+
