@@ -6,9 +6,13 @@ I'm a sophomore majoring in Computer Science at California State University, Ful
 
 <h2>📺 Software Development Projects:  </h2>
 Rover Project
-- Created base code for rover movement functions 
+
+- Created base code for rover movement functions
+  
 - Helped assemble rover parts
+  
 - Navigated motor and controller controls using Vex Robotics
+  
 - Worked in a team made up of different stem majors to complete
 
 
