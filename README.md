@@ -7,24 +7,31 @@ Hello, I'm Joshua Lopez, a sophomore pursuing a Computer Science degree at Calif
 <h2>📺 Software Development Projects:  </h2>
 Rover Project
 
-- Created base code for rover movement functions
+- Helped develop foundational code for the rover movement functionalities
   
-- Helped assemble rover parts
+- Contributed to the assembly of rover components, allowing it to function
   
-- Navigated motor and controller controls using Vex Robotics
+- Implemented motor and controller controls using Vex Robotics
   
-- Worked in a team made up of different stem majors to complete
+- Collaborated with a team of engineering majors to complete this project
 
 Divine Messenger
 
 - Contracted by a funeral home transportation service to create an app that automates and digitalizes their workflow and databases
+  
+- Collaborated in the creation and development of an app utilizing the Flutter platform  
 
-- Worked to create and develop an app through the use of the Flutter platform
+- Contributed within a team to design the app's interface, database, and functionalities
 
-- Worked in a team to create the interface, functionalities of the app, and databases
+- Conducted regular team meetings to discuss and implement new ideas for the app
 
-- Held meetings regularly with the team for app improvements and app collaborations
+Wordle Game Project
 
+- Created the backend development of the Wordle game
+  
+- Designed and implemented APIs needed for the game's functionality and smooth operation
+
+- Developed a comprehensive class to hold and manage all game information and data
 
 <h2> 🤳 Connect with me:</h2>
 
