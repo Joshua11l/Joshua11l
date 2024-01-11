@@ -19,7 +19,7 @@ Divine Messenger
 
 - Contracted by a funeral home transportation service to create an app that automates and digitalizes their workflow and databases
   
-- Collaborated in the creation and development of an app utilizing the Flutter platform  
+- Collaborated in the creation and development of an app utilizing the Flutterflow platform  
 
 - Contributed within a team to design the app's interface, database, and functionalities
 
