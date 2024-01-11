@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joshua Lopez!
 
 <h2>👨‍💻 About Me: </h2>
-I'm a sophomore majoring in Computer Science at California State University, Fullerton. At the moment, I'm interested in learning more about virtual reality, game development, cybersecurity, data analysis, and more.
+Hello, I'm Joshua Lopez, a sophomore pursuing a Computer Science degree at California State University, Fullerton. I’m passionate about using technology to solve real-world challenges, and I am always looking to improve my skills in coding, problem-solving, and collaborative development. I’m always interested in making innovative projects and connecting with like-minded individuals in the tech industry. Let's build the future together!
 
 
 <h2>📺 Software Development Projects:  </h2>
