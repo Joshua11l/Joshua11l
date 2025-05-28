@@ -7,7 +7,7 @@ My work spans web apps, mobile platforms, analytics dashboards, client portals, 
 
 ## Experience Highlights
 - Co-founder of a software company that designs and builds custom platforms for logistics, HR, fintech, and internal operations.
-- Delivered production systems across industries including mortuary transport, real estate, restaurants, and online payments.
+- Delivered production systems across industries including global logistics, mortuary transport, real estate, restaurants, and online payments.
 - Built end-to-end solutions using React, React Native, Node.js, and Supabase.
 - Developed admin dashboards, real-time tracking systems, analytics tools, CRMs, invoicing systems, and document workflows.
 - Collaborated with designers and stakeholders to implement pixel-perfect UI/UX in line with modern SaaS aesthetics.
@@ -35,10 +35,6 @@ My work spans web apps, mobile platforms, analytics dashboards, client portals, 
 - Figma (UI/UX prototyping)
 - Firebase Cloud Functions
 - GitHub Actions (basic CI/CD)
-
-### Productivity & Management
-- ClickUp, Trello, Notion (Task Management)
-- Visual Studio Code, Xcode, Android Studio
 
 ## Portfolio & Links
 - [LinkedIn](https://www.linkedin.com/in/joshua-lopez-811758252/)
